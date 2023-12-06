@@ -1,6 +1,6 @@
 {
   "name": "standard-version",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "https://github.com/natanaeldeveloper/automatic-changelog.git",
   "author": "natanaeldeveloper <natanaeloliveiramartinsbr@gmail.com>",
