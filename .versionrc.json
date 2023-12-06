@@ -34,5 +34,5 @@
         }
     ],
     "issueUrlFormat": "https://fabricainfo.atlassian.net/browse/{{id}}",
-    "issuePrefixes": "[A-Z]+-\d+",
+    "issuePrefixes": "['#']"
 }
